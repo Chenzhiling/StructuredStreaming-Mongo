@@ -1,5 +1,6 @@
 # Spark-StructuredStreamming-Mongo
-
+[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
+[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README.en.md)
 ## 1.Description
 read mongo by spark structureed streaming
 

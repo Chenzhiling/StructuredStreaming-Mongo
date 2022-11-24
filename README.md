@@ -1,5 +1,7 @@
 # Spark-StructuredStreaming-Mongo
 
+[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
+[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README.en.md)
 ## 1. 介绍
 
 最近，有一个新需求，需要将mongo某个表的增量数据，实时同步到数据湖仓库中，于是自定义了这么一个数据源。
